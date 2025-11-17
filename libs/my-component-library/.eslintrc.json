@@ -1,6 +1,10 @@
 {
   "extends": ["plugin:@nx/react", "../../.eslintrc.json"],
-  "ignorePatterns": ["!**/*", "**/vitest.config.*.timestamp*"],
+  "ignorePatterns": [
+    "!**/*",
+    "**/vitest.config.*.timestamp*",
+    "storybook-static"
+  ],
   "overrides": [
     {
       "files": ["*.ts", "*.tsx", "*.js", "*.jsx"],
