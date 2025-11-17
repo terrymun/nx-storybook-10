@@ -1,11 +1,13 @@
 import { fileURLToPath } from 'node:url';
 import { dirname } from 'node:path';
-
 import type { StorybookConfig } from '@storybook/react-vite';
 
+// NOTE: If `.ts` is added to the following import path, then storybook works, i.e.:
+// import { config as commonStorybookConfig } from '../../../storybook.config.ts';
+import { config as commonStorybookConfig } from '../../../storybook.config';
+
 const config: StorybookConfig = {
-  stories: ['../src/lib/**/*.@(mdx|stories.@(js|jsx|ts|tsx))'],
-  addons: [],
+  ...commonStorybookConfig,
   framework: {
     name: getAbsolutePath('@storybook/react-vite'),
     options: {

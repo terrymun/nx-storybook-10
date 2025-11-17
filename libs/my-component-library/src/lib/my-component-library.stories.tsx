@@ -1,6 +1,5 @@
 import type { Meta, StoryObj } from '@storybook/react-vite';
 import { MyComponentLibrary  } from './my-component-library';
-import { expect } from 'storybook/test';
 
 const meta = {
   component: MyComponentLibrary,
