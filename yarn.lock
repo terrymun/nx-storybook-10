@@ -5594,18 +5594,18 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@nx/angular@npm:22.1.0-rc.4":
-  version: 22.1.0-rc.4
-  resolution: "@nx/angular@npm:22.1.0-rc.4"
+"@nx/angular@npm:22.1.0-rc.5":
+  version: 22.1.0-rc.5
+  resolution: "@nx/angular@npm:22.1.0-rc.5"
   dependencies:
-    "@nx/devkit": "npm:22.1.0-rc.4"
-    "@nx/eslint": "npm:22.1.0-rc.4"
-    "@nx/js": "npm:22.1.0-rc.4"
-    "@nx/module-federation": "npm:22.1.0-rc.4"
-    "@nx/rspack": "npm:22.1.0-rc.4"
-    "@nx/web": "npm:22.1.0-rc.4"
-    "@nx/webpack": "npm:22.1.0-rc.4"
-    "@nx/workspace": "npm:22.1.0-rc.4"
+    "@nx/devkit": "npm:22.1.0-rc.5"
+    "@nx/eslint": "npm:22.1.0-rc.5"
+    "@nx/js": "npm:22.1.0-rc.5"
+    "@nx/module-federation": "npm:22.1.0-rc.5"
+    "@nx/rspack": "npm:22.1.0-rc.5"
+    "@nx/web": "npm:22.1.0-rc.5"
+    "@nx/webpack": "npm:22.1.0-rc.5"
+    "@nx/workspace": "npm:22.1.0-rc.5"
     "@phenomnomnominal/tsquery": "npm:~5.0.1"
     "@typescript-eslint/type-utils": "npm:^8.0.0"
     enquirer: "npm:~2.3.6"
@@ -5630,17 +5630,17 @@ __metadata:
       optional: true
     ng-packagr:
       optional: true
-  checksum: 10c0/05c961f6c94c702c436d324ea821fe33fbfe067680a812e7ee571accd2cb569acdd806beab544945ae8697ee693968801ee7447416690855ac2a6610e20ddd54
+  checksum: 10c0/0b8c8db45d53440e0859bfb0984c2e6787fd1b5ba2a3668100bfced5c724dc59914d9a652c33ba953860a23df65ca736ef07e512155c134e5fe16ed6dc766718
   languageName: node
   linkType: hard
 
-"@nx/cypress@npm:22.1.0-rc.4":
-  version: 22.1.0-rc.4
-  resolution: "@nx/cypress@npm:22.1.0-rc.4"
+"@nx/cypress@npm:22.1.0-rc.5":
+  version: 22.1.0-rc.5
+  resolution: "@nx/cypress@npm:22.1.0-rc.5"
   dependencies:
-    "@nx/devkit": "npm:22.1.0-rc.4"
-    "@nx/eslint": "npm:22.1.0-rc.4"
-    "@nx/js": "npm:22.1.0-rc.4"
+    "@nx/devkit": "npm:22.1.0-rc.5"
+    "@nx/eslint": "npm:22.1.0-rc.5"
+    "@nx/js": "npm:22.1.0-rc.5"
     "@phenomnomnominal/tsquery": "npm:~5.0.1"
     detect-port: "npm:^1.5.1"
     semver: "npm:^7.6.3"
@@ -5651,13 +5651,13 @@ __metadata:
   peerDependenciesMeta:
     cypress:
       optional: true
-  checksum: 10c0/ac866661e1cb5b7286c85f2aac54a60b838ee130fee6104b163c61a9161e59dd1ca1254b5302a86543ccfcc3f670b520174628ca04eea3be995c1a8c0c91fc7e
+  checksum: 10c0/599da45c032dbac44a1053ad416cb37d310b2ccd873710b5dd2d08628eea99ad62ccb94ac8f86e72f152cd6a5ac1bd844e009f9481fe00628d21be8333137328
   languageName: node
   linkType: hard
 
-"@nx/devkit@npm:22.1.0-rc.4":
-  version: 22.1.0-rc.4
-  resolution: "@nx/devkit@npm:22.1.0-rc.4"
+"@nx/devkit@npm:22.1.0-rc.5":
+  version: 22.1.0-rc.5
+  resolution: "@nx/devkit@npm:22.1.0-rc.5"
   dependencies:
     "@zkochan/js-yaml": "npm:0.0.7"
     ejs: "npm:^3.1.7"
@@ -5668,16 +5668,16 @@ __metadata:
     yargs-parser: "npm:21.1.1"
   peerDependencies:
     nx: ">= 21 <= 23 || ^22.0.0-0"
-  checksum: 10c0/5b0ad82b0f406ab287ed26e8e34fe56e5e6049a156d445a03b666537ea8936a4e3bb48849ceb132db6ed958ee6321e6ff5b420f15a6382f40127b3ede43aa88f
+  checksum: 10c0/836b7eea614c4138c7cf69359a221dc7bf1461f6bffa49fa056abd46bb03d7a8f41daefba5b6b870441b33d608fafe96773fa4d2ce6728846c0c9d4d529e7d98
   languageName: node
   linkType: hard
 
-"@nx/eslint-plugin@npm:22.1.0-rc.4":
-  version: 22.1.0-rc.4
-  resolution: "@nx/eslint-plugin@npm:22.1.0-rc.4"
+"@nx/eslint-plugin@npm:22.1.0-rc.5":
+  version: 22.1.0-rc.5
+  resolution: "@nx/eslint-plugin@npm:22.1.0-rc.5"
   dependencies:
-    "@nx/devkit": "npm:22.1.0-rc.4"
-    "@nx/js": "npm:22.1.0-rc.4"
+    "@nx/devkit": "npm:22.1.0-rc.5"
+    "@nx/js": "npm:22.1.0-rc.5"
     "@phenomnomnominal/tsquery": "npm:~5.0.1"
     "@typescript-eslint/type-utils": "npm:^8.0.0"
     "@typescript-eslint/utils": "npm:^8.0.0"
@@ -5693,16 +5693,16 @@ __metadata:
   peerDependenciesMeta:
     eslint-config-prettier:
       optional: true
-  checksum: 10c0/fbfb6141f961ef5c97079f9538b6aa34407df9500cda6a393e37e69377e8e562eb2a22b273cb8ed12a77eeda0df2cf1b4a20b4b56621822375e60bb2c3fc3c54
+  checksum: 10c0/0aacfbcee8793ada5eada7b595dafe7ddcd02f4678934df223b8c842bc1348bc8fd0f8551fd1224d4193dfa6520c361e043ed3e3d1792ba821ffcffe152fbb55
   languageName: node
   linkType: hard
 
-"@nx/eslint@npm:22.1.0-rc.4":
-  version: 22.1.0-rc.4
-  resolution: "@nx/eslint@npm:22.1.0-rc.4"
+"@nx/eslint@npm:22.1.0-rc.5":
+  version: 22.1.0-rc.5
+  resolution: "@nx/eslint@npm:22.1.0-rc.5"
   dependencies:
-    "@nx/devkit": "npm:22.1.0-rc.4"
-    "@nx/js": "npm:22.1.0-rc.4"
+    "@nx/devkit": "npm:22.1.0-rc.5"
+    "@nx/js": "npm:22.1.0-rc.5"
     semver: "npm:^7.6.3"
     tslib: "npm:^2.3.0"
     typescript: "npm:~5.9.2"
@@ -5712,18 +5712,18 @@ __metadata:
   peerDependenciesMeta:
     "@zkochan/js-yaml":
       optional: true
-  checksum: 10c0/0aae58dd861111c35389589e617a4ad44c9cacbc79c34fb758e8292a3b8b670a4720a15b320b9265b3fb8112bb04cf757891e394e2b844a881d44fc0c8b2047d
+  checksum: 10c0/e866970beb8a4b9bc3f01f70661348eb8dcd7c584cd9f83c19f6e6c29192e1aae0398ce7c42411602f8c068e729369122e92451afe58d8a49eda86005cecfa95
   languageName: node
   linkType: hard
 
-"@nx/jest@npm:22.1.0-rc.4":
-  version: 22.1.0-rc.4
-  resolution: "@nx/jest@npm:22.1.0-rc.4"
+"@nx/jest@npm:22.1.0-rc.5":
+  version: 22.1.0-rc.5
+  resolution: "@nx/jest@npm:22.1.0-rc.5"
   dependencies:
     "@jest/reporters": "npm:^30.0.2"
     "@jest/test-result": "npm:^30.0.2"
-    "@nx/devkit": "npm:22.1.0-rc.4"
-    "@nx/js": "npm:22.1.0-rc.4"
+    "@nx/devkit": "npm:22.1.0-rc.5"
+    "@nx/js": "npm:22.1.0-rc.5"
     "@phenomnomnominal/tsquery": "npm:~5.0.1"
     identity-obj-proxy: "npm:3.0.0"
     jest-config: "npm:^30.0.2"
@@ -5735,13 +5735,13 @@ __metadata:
     semver: "npm:^7.6.3"
     tslib: "npm:^2.3.0"
     yargs-parser: "npm:21.1.1"
-  checksum: 10c0/22d5c9f15a033fd1144aef3ec3ea76fa0476e31484ce5e7df78dd85c32a7b42495156b553a976049b3ac1e71938942262a583cf4b77dc79e71fdfe8f1d1deb56
+  checksum: 10c0/2de0337f2ebdd1b713a28f80dbba9905a474f06ec5bb213b5638b858af0d0534ffb73bd61c5e7555454a934f6da97f307c5760414d19a9368ddaabab41a6a4a7
   languageName: node
   linkType: hard
 
-"@nx/js@npm:22.1.0-rc.4":
-  version: 22.1.0-rc.4
-  resolution: "@nx/js@npm:22.1.0-rc.4"
+"@nx/js@npm:22.1.0-rc.5":
+  version: 22.1.0-rc.5
+  resolution: "@nx/js@npm:22.1.0-rc.5"
   dependencies:
     "@babel/core": "npm:^7.23.2"
     "@babel/plugin-proposal-decorators": "npm:^7.22.7"
@@ -5750,8 +5750,8 @@ __metadata:
     "@babel/preset-env": "npm:^7.23.2"
     "@babel/preset-typescript": "npm:^7.22.5"
     "@babel/runtime": "npm:^7.22.6"
-    "@nx/devkit": "npm:22.1.0-rc.4"
-    "@nx/workspace": "npm:22.1.0-rc.4"
+    "@nx/devkit": "npm:22.1.0-rc.5"
+    "@nx/workspace": "npm:22.1.0-rc.5"
     "@zkochan/js-yaml": "npm:0.0.7"
     babel-plugin-const-enum: "npm:^1.0.1"
     babel-plugin-macros: "npm:^3.1.0"
@@ -5774,111 +5774,111 @@ __metadata:
   peerDependenciesMeta:
     verdaccio:
       optional: true
-  checksum: 10c0/1b3301181e3d52bcc017a82f3ff2741297007d59189ccac31c31efa5e478d0224debf18760b3b51ddc7e1aa867ffaff9212616fadd93e55671315b51b05caae0
+  checksum: 10c0/bd008afd7a46e838ae9657e2444d16398ce110da6db04f34f52eef0b2e0d505f9ad8971b63038e36960f1781e71aecb71c5078794725dbfe195890d194836cc2
   languageName: node
   linkType: hard
 
-"@nx/module-federation@npm:22.1.0-rc.4":
-  version: 22.1.0-rc.4
-  resolution: "@nx/module-federation@npm:22.1.0-rc.4"
+"@nx/module-federation@npm:22.1.0-rc.5":
+  version: 22.1.0-rc.5
+  resolution: "@nx/module-federation@npm:22.1.0-rc.5"
   dependencies:
     "@module-federation/enhanced": "npm:^0.21.2"
     "@module-federation/node": "npm:^2.7.21"
     "@module-federation/sdk": "npm:^0.21.2"
-    "@nx/devkit": "npm:22.1.0-rc.4"
-    "@nx/js": "npm:22.1.0-rc.4"
-    "@nx/web": "npm:22.1.0-rc.4"
+    "@nx/devkit": "npm:22.1.0-rc.5"
+    "@nx/js": "npm:22.1.0-rc.5"
+    "@nx/web": "npm:22.1.0-rc.5"
     "@rspack/core": "npm:^1.5.2"
     express: "npm:^4.21.2"
     http-proxy-middleware: "npm:^3.0.5"
     picocolors: "npm:^1.1.0"
     tslib: "npm:^2.3.0"
     webpack: "npm:^5.101.3"
-  checksum: 10c0/7c05a8d35bc1203c79753e844efb4fe7ddf423a7e17c5b07e542e82bb2d2f22a4eae5cd813ad5c6d60c29c972a2c17d53d0abdedb199476180b3ffcce4b82fc4
+  checksum: 10c0/5864b7bc201f41855581633d01ecbb557c28efead0cff9eb393df8a5ae14eefbb642d10313355fe09a09f336d354a68ea0566ce2dc40cd5119b73b864b85f4ce
   languageName: node
   linkType: hard
 
-"@nx/nx-darwin-arm64@npm:22.1.0-rc.4":
-  version: 22.1.0-rc.4
-  resolution: "@nx/nx-darwin-arm64@npm:22.1.0-rc.4"
+"@nx/nx-darwin-arm64@npm:22.1.0-rc.5":
+  version: 22.1.0-rc.5
+  resolution: "@nx/nx-darwin-arm64@npm:22.1.0-rc.5"
   conditions: os=darwin & cpu=arm64
   languageName: node
   linkType: hard
 
-"@nx/nx-darwin-x64@npm:22.1.0-rc.4":
-  version: 22.1.0-rc.4
-  resolution: "@nx/nx-darwin-x64@npm:22.1.0-rc.4"
+"@nx/nx-darwin-x64@npm:22.1.0-rc.5":
+  version: 22.1.0-rc.5
+  resolution: "@nx/nx-darwin-x64@npm:22.1.0-rc.5"
   conditions: os=darwin & cpu=x64
   languageName: node
   linkType: hard
 
-"@nx/nx-freebsd-x64@npm:22.1.0-rc.4":
-  version: 22.1.0-rc.4
-  resolution: "@nx/nx-freebsd-x64@npm:22.1.0-rc.4"
+"@nx/nx-freebsd-x64@npm:22.1.0-rc.5":
+  version: 22.1.0-rc.5
+  resolution: "@nx/nx-freebsd-x64@npm:22.1.0-rc.5"
   conditions: os=freebsd & cpu=x64
   languageName: node
   linkType: hard
 
-"@nx/nx-linux-arm-gnueabihf@npm:22.1.0-rc.4":
-  version: 22.1.0-rc.4
-  resolution: "@nx/nx-linux-arm-gnueabihf@npm:22.1.0-rc.4"
+"@nx/nx-linux-arm-gnueabihf@npm:22.1.0-rc.5":
+  version: 22.1.0-rc.5
+  resolution: "@nx/nx-linux-arm-gnueabihf@npm:22.1.0-rc.5"
   conditions: os=linux & cpu=arm
   languageName: node
   linkType: hard
 
-"@nx/nx-linux-arm64-gnu@npm:22.1.0-rc.4":
-  version: 22.1.0-rc.4
-  resolution: "@nx/nx-linux-arm64-gnu@npm:22.1.0-rc.4"
+"@nx/nx-linux-arm64-gnu@npm:22.1.0-rc.5":
+  version: 22.1.0-rc.5
+  resolution: "@nx/nx-linux-arm64-gnu@npm:22.1.0-rc.5"
   conditions: os=linux & cpu=arm64 & libc=glibc
   languageName: node
   linkType: hard
 
-"@nx/nx-linux-arm64-musl@npm:22.1.0-rc.4":
-  version: 22.1.0-rc.4
-  resolution: "@nx/nx-linux-arm64-musl@npm:22.1.0-rc.4"
+"@nx/nx-linux-arm64-musl@npm:22.1.0-rc.5":
+  version: 22.1.0-rc.5
+  resolution: "@nx/nx-linux-arm64-musl@npm:22.1.0-rc.5"
   conditions: os=linux & cpu=arm64 & libc=musl
   languageName: node
   linkType: hard
 
-"@nx/nx-linux-x64-gnu@npm:22.1.0-rc.4":
-  version: 22.1.0-rc.4
-  resolution: "@nx/nx-linux-x64-gnu@npm:22.1.0-rc.4"
+"@nx/nx-linux-x64-gnu@npm:22.1.0-rc.5":
+  version: 22.1.0-rc.5
+  resolution: "@nx/nx-linux-x64-gnu@npm:22.1.0-rc.5"
   conditions: os=linux & cpu=x64 & libc=glibc
   languageName: node
   linkType: hard
 
-"@nx/nx-linux-x64-musl@npm:22.1.0-rc.4":
-  version: 22.1.0-rc.4
-  resolution: "@nx/nx-linux-x64-musl@npm:22.1.0-rc.4"
+"@nx/nx-linux-x64-musl@npm:22.1.0-rc.5":
+  version: 22.1.0-rc.5
+  resolution: "@nx/nx-linux-x64-musl@npm:22.1.0-rc.5"
   conditions: os=linux & cpu=x64 & libc=musl
   languageName: node
   linkType: hard
 
-"@nx/nx-win32-arm64-msvc@npm:22.1.0-rc.4":
-  version: 22.1.0-rc.4
-  resolution: "@nx/nx-win32-arm64-msvc@npm:22.1.0-rc.4"
+"@nx/nx-win32-arm64-msvc@npm:22.1.0-rc.5":
+  version: 22.1.0-rc.5
+  resolution: "@nx/nx-win32-arm64-msvc@npm:22.1.0-rc.5"
   conditions: os=win32 & cpu=arm64
   languageName: node
   linkType: hard
 
-"@nx/nx-win32-x64-msvc@npm:22.1.0-rc.4":
-  version: 22.1.0-rc.4
-  resolution: "@nx/nx-win32-x64-msvc@npm:22.1.0-rc.4"
+"@nx/nx-win32-x64-msvc@npm:22.1.0-rc.5":
+  version: 22.1.0-rc.5
+  resolution: "@nx/nx-win32-x64-msvc@npm:22.1.0-rc.5"
   conditions: os=win32 & cpu=x64
   languageName: node
   linkType: hard
 
-"@nx/react@npm:22.1.0-rc.4":
-  version: 22.1.0-rc.4
-  resolution: "@nx/react@npm:22.1.0-rc.4"
+"@nx/react@npm:22.1.0-rc.5":
+  version: 22.1.0-rc.5
+  resolution: "@nx/react@npm:22.1.0-rc.5"
   dependencies:
-    "@nx/devkit": "npm:22.1.0-rc.4"
-    "@nx/eslint": "npm:22.1.0-rc.4"
-    "@nx/js": "npm:22.1.0-rc.4"
-    "@nx/module-federation": "npm:22.1.0-rc.4"
-    "@nx/rollup": "npm:22.1.0-rc.4"
-    "@nx/vite": "npm:22.1.0-rc.4"
-    "@nx/web": "npm:22.1.0-rc.4"
+    "@nx/devkit": "npm:22.1.0-rc.5"
+    "@nx/eslint": "npm:22.1.0-rc.5"
+    "@nx/js": "npm:22.1.0-rc.5"
+    "@nx/module-federation": "npm:22.1.0-rc.5"
+    "@nx/rollup": "npm:22.1.0-rc.5"
+    "@nx/vite": "npm:22.1.0-rc.5"
+    "@nx/web": "npm:22.1.0-rc.5"
     "@phenomnomnominal/tsquery": "npm:~5.0.1"
     "@svgr/webpack": "npm:^8.0.1"
     express: "npm:^4.21.2"
@@ -5891,16 +5891,16 @@ __metadata:
   dependenciesMeta:
     "@nx/vite":
       optional: true
-  checksum: 10c0/4035e0d2852a4086cdb2c97d5f8326fc57e8da6bee940b0a7affdd7284a16a29bbcbf512798adfcb54eef0880d5bf38ec2c36fa5b62467e38daeb1f91868ad28
+  checksum: 10c0/e71ff73b20bf68693d8a40902f0ffd6d0ba4b73f31db4d8af0fa62994da78d4ddfe15f249baabf507f20d682331f1dbad4bfcb97d99c7b437d5a80bc722131b0
   languageName: node
   linkType: hard
 
-"@nx/rollup@npm:22.1.0-rc.4":
-  version: 22.1.0-rc.4
-  resolution: "@nx/rollup@npm:22.1.0-rc.4"
+"@nx/rollup@npm:22.1.0-rc.5":
+  version: 22.1.0-rc.5
+  resolution: "@nx/rollup@npm:22.1.0-rc.5"
   dependencies:
-    "@nx/devkit": "npm:22.1.0-rc.4"
-    "@nx/js": "npm:22.1.0-rc.4"
+    "@nx/devkit": "npm:22.1.0-rc.5"
+    "@nx/js": "npm:22.1.0-rc.5"
     "@rollup/plugin-babel": "npm:^6.0.4"
     "@rollup/plugin-commonjs": "npm:^25.0.7"
     "@rollup/plugin-image": "npm:^3.0.3"
@@ -5916,18 +5916,18 @@ __metadata:
     rollup-plugin-postcss: "npm:^4.0.2"
     rollup-plugin-typescript2: "npm:^0.36.0"
     tslib: "npm:^2.3.0"
-  checksum: 10c0/08fe90b7897bb7b92567f44cd0643d5deb86f326884c1d4079e09896777e3dc6568805071ff243ec28db22a9d027ec57c76b48c8a2e9560288b38d754c3ccdfa
+  checksum: 10c0/591c83727448b8e86177025f5be1264889832da315fb26f40feedea9dcfe46680c9c6230fdd0a0eed2f32072204c9769ad632568f5b4a32b782b6b3ec2f07602
   languageName: node
   linkType: hard
 
-"@nx/rspack@npm:22.1.0-rc.4":
-  version: 22.1.0-rc.4
-  resolution: "@nx/rspack@npm:22.1.0-rc.4"
+"@nx/rspack@npm:22.1.0-rc.5":
+  version: 22.1.0-rc.5
+  resolution: "@nx/rspack@npm:22.1.0-rc.5"
   dependencies:
-    "@nx/devkit": "npm:22.1.0-rc.4"
-    "@nx/js": "npm:22.1.0-rc.4"
-    "@nx/module-federation": "npm:22.1.0-rc.4"
-    "@nx/web": "npm:22.1.0-rc.4"
+    "@nx/devkit": "npm:22.1.0-rc.5"
+    "@nx/js": "npm:22.1.0-rc.5"
+    "@nx/module-federation": "npm:22.1.0-rc.5"
+    "@nx/web": "npm:22.1.0-rc.5"
     "@phenomnomnominal/tsquery": "npm:~5.0.1"
     "@rspack/core": "npm:^1.5.2"
     "@rspack/dev-server": "npm:^1.1.4"
@@ -5958,34 +5958,34 @@ __metadata:
   peerDependencies:
     "@module-federation/enhanced": ^0.21.2
     "@module-federation/node": ^2.7.21
-  checksum: 10c0/a271a8066369bd39838aa840b0508ffa8fb8fee6122a514efbdc532747af3d7be128c05c3baecfe78500b95382cd5ff32b057ff30ccb360de88f22858d4ad9bd
+  checksum: 10c0/80506198ee9d2b3171abe72c9530889a6064bea3f47741f4b587e2785125ced5d80a288089d087c361f791955252a0957c91d5373c8b2a19efce702b46fcce89
   languageName: node
   linkType: hard
 
-"@nx/storybook@npm:22.1.0-rc.4":
-  version: 22.1.0-rc.4
-  resolution: "@nx/storybook@npm:22.1.0-rc.4"
+"@nx/storybook@npm:22.1.0-rc.5":
+  version: 22.1.0-rc.5
+  resolution: "@nx/storybook@npm:22.1.0-rc.5"
   dependencies:
-    "@nx/cypress": "npm:22.1.0-rc.4"
-    "@nx/devkit": "npm:22.1.0-rc.4"
-    "@nx/eslint": "npm:22.1.0-rc.4"
-    "@nx/js": "npm:22.1.0-rc.4"
+    "@nx/cypress": "npm:22.1.0-rc.5"
+    "@nx/devkit": "npm:22.1.0-rc.5"
+    "@nx/eslint": "npm:22.1.0-rc.5"
+    "@nx/js": "npm:22.1.0-rc.5"
     "@phenomnomnominal/tsquery": "npm:~5.0.1"
     semver: "npm:^7.6.3"
     tslib: "npm:^2.3.0"
   peerDependencies:
     storybook: ">=7.0.0 <11.0.0"
-  checksum: 10c0/a5d7c4bac87589b6d93c722d42aef5d15a91e2bc89be4e2905791cfeae0cfdf51a82a8d84e243c5e2ad3bab7fbc5a346ccae1f7ce92ef6b279e2a244f1e26cac
+  checksum: 10c0/2f235982b789da9cfcf08aeda1b63c704f6b3c2fc9a69707004e49681ac269eb573708442aec3cec0b5b7426dac5c84a179701c442348552b1b09f6bca0d0c48
   languageName: node
   linkType: hard
 
-"@nx/vite@npm:22.1.0-rc.4":
-  version: 22.1.0-rc.4
-  resolution: "@nx/vite@npm:22.1.0-rc.4"
+"@nx/vite@npm:22.1.0-rc.5":
+  version: 22.1.0-rc.5
+  resolution: "@nx/vite@npm:22.1.0-rc.5"
   dependencies:
-    "@nx/devkit": "npm:22.1.0-rc.4"
-    "@nx/js": "npm:22.1.0-rc.4"
-    "@nx/vitest": "npm:22.1.0-rc.4"
+    "@nx/devkit": "npm:22.1.0-rc.5"
+    "@nx/js": "npm:22.1.0-rc.5"
+    "@nx/vitest": "npm:22.1.0-rc.5"
     "@phenomnomnominal/tsquery": "npm:~5.0.1"
     ajv: "npm:^8.0.0"
     enquirer: "npm:~2.3.6"
@@ -5996,16 +5996,16 @@ __metadata:
   peerDependencies:
     vite: ^5.0.0 || ^6.0.0 || ^7.0.0
     vitest: ^1.3.1 || ^2.0.0 || ^3.0.0 || ^4.0.0
-  checksum: 10c0/9ef31de9050e8df12705bc0a62c9e25fb3e1e6be0fb04f68bb75c254a890c4d70b3d06f08983bccc60b82274e19e3186d60e4c6ab1a876e62a44425cd54ca167
+  checksum: 10c0/1e9718725b3ea31bc76e456a7b20dbf2e5389b82bd9fb4c4f4011610821b530cb4d1e05d4507f67f0390ed75dd01b57c6d5dd73b281f237eca91c67f06eea647
   languageName: node
   linkType: hard
 
-"@nx/vitest@npm:22.1.0-rc.4":
-  version: 22.1.0-rc.4
-  resolution: "@nx/vitest@npm:22.1.0-rc.4"
+"@nx/vitest@npm:22.1.0-rc.5":
+  version: 22.1.0-rc.5
+  resolution: "@nx/vitest@npm:22.1.0-rc.5"
   dependencies:
-    "@nx/devkit": "npm:22.1.0-rc.4"
-    "@nx/js": "npm:22.1.0-rc.4"
+    "@nx/devkit": "npm:22.1.0-rc.5"
+    "@nx/js": "npm:22.1.0-rc.5"
     "@phenomnomnominal/tsquery": "npm:~5.0.1"
     semver: "npm:^7.6.3"
     tslib: "npm:^2.3.0"
@@ -6017,31 +6017,31 @@ __metadata:
       optional: true
     vitest:
       optional: true
-  checksum: 10c0/9e76677c3031f68b6af280b18d416c2900e750ed762519f91b5e1c80f2e8014db416fc7f06230ae81ec7c3d5440e61e3879a2e18b32b2f9c5c75da2ca76d698d
+  checksum: 10c0/aef5f93caa39ee19e2860d35ae8d7a44190a8638a5e2a06947f6e7accdf9bd25bec457c8d9024586a814a85574318b6163ab3d42a2c0f5a623d04c30c979b592
   languageName: node
   linkType: hard
 
-"@nx/web@npm:22.1.0-rc.4":
-  version: 22.1.0-rc.4
-  resolution: "@nx/web@npm:22.1.0-rc.4"
+"@nx/web@npm:22.1.0-rc.5":
+  version: 22.1.0-rc.5
+  resolution: "@nx/web@npm:22.1.0-rc.5"
   dependencies:
-    "@nx/devkit": "npm:22.1.0-rc.4"
-    "@nx/js": "npm:22.1.0-rc.4"
+    "@nx/devkit": "npm:22.1.0-rc.5"
+    "@nx/js": "npm:22.1.0-rc.5"
     detect-port: "npm:^1.5.1"
     http-server: "npm:^14.1.0"
     picocolors: "npm:^1.1.0"
     tslib: "npm:^2.3.0"
-  checksum: 10c0/5fcddbd8e9b530a7423df00da87f4b369cad58957a7d0df543779172710a59489e1a6d051959a7e2e77ab7a9e344d143f791581b2eebd9ebc47b2cd694937816
+  checksum: 10c0/34ed2ad5c7e86cd8f2a72900c29e1bf835a0f325d51606798efe747c8d67a0d6e2f5f36d0e97534eec2cd5b9bc302e7f2179ede16f57de3983ec929d963700cb
   languageName: node
   linkType: hard
 
-"@nx/webpack@npm:22.1.0-rc.4":
-  version: 22.1.0-rc.4
-  resolution: "@nx/webpack@npm:22.1.0-rc.4"
+"@nx/webpack@npm:22.1.0-rc.5":
+  version: 22.1.0-rc.5
+  resolution: "@nx/webpack@npm:22.1.0-rc.5"
   dependencies:
     "@babel/core": "npm:^7.23.2"
-    "@nx/devkit": "npm:22.1.0-rc.4"
-    "@nx/js": "npm:22.1.0-rc.4"
+    "@nx/devkit": "npm:22.1.0-rc.5"
+    "@nx/js": "npm:22.1.0-rc.5"
     "@phenomnomnominal/tsquery": "npm:~5.0.1"
     ajv: "npm:^8.12.0"
     autoprefixer: "npm:^10.4.9"
@@ -6075,24 +6075,24 @@ __metadata:
     webpack-dev-server: "npm:^5.2.1"
     webpack-node-externals: "npm:^3.0.0"
     webpack-subresource-integrity: "npm:^5.1.0"
-  checksum: 10c0/58ab099a8208161514c1dfa343aaae3c325cdafa3a71137a30d3dc6feaab986d869c6faf645a7233a1ef3c316d734c8fffdd3f0e5415c95fc2bda0e9056e8c09
+  checksum: 10c0/90410ae34dddefa0dc83a224d1560c64275058d705e5cc744b21ed77420672956e11f1630e85a45fd38e59108611a48dae6ff177486cb913b6deec5cacc5e2a6
   languageName: node
   linkType: hard
 
-"@nx/workspace@npm:22.1.0-rc.4":
-  version: 22.1.0-rc.4
-  resolution: "@nx/workspace@npm:22.1.0-rc.4"
+"@nx/workspace@npm:22.1.0-rc.5":
+  version: 22.1.0-rc.5
+  resolution: "@nx/workspace@npm:22.1.0-rc.5"
   dependencies:
-    "@nx/devkit": "npm:22.1.0-rc.4"
+    "@nx/devkit": "npm:22.1.0-rc.5"
     "@zkochan/js-yaml": "npm:0.0.7"
     chalk: "npm:^4.1.0"
     enquirer: "npm:~2.3.6"
-    nx: "npm:22.1.0-rc.4"
+    nx: "npm:22.1.0-rc.5"
     picomatch: "npm:4.0.2"
     semver: "npm:^7.6.3"
     tslib: "npm:^2.3.0"
     yargs-parser: "npm:21.1.1"
-  checksum: 10c0/7d62804f417e2caa4e72f7d6526b5fee85405079a6d21e09fe670b7f5965f728f27c47bd927153283892b3d953614ba49f83108f7e0812e66d12b3bfa40156c9
+  checksum: 10c0/7ae5ae9d33fefc6663e4a6ecbb78ae34d05220791daa054f2a4ae163d55f1925237450db6befe1b88f6e03dd023110b269803acf8d07057ca14e65d601a8e03a
   languageName: node
   linkType: hard
 
@@ -19394,20 +19394,20 @@ __metadata:
     "@ngrx/router-store": "npm:20.0.1"
     "@ngrx/store": "npm:20.0.1"
     "@ngrx/store-devtools": "npm:20.0.1"
-    "@nx/angular": "npm:22.1.0-rc.4"
-    "@nx/cypress": "npm:22.1.0-rc.4"
-    "@nx/devkit": "npm:22.1.0-rc.4"
-    "@nx/eslint": "npm:22.1.0-rc.4"
-    "@nx/eslint-plugin": "npm:22.1.0-rc.4"
-    "@nx/jest": "npm:22.1.0-rc.4"
-    "@nx/js": "npm:22.1.0-rc.4"
-    "@nx/react": "npm:22.1.0-rc.4"
-    "@nx/storybook": "npm:22.1.0-rc.4"
-    "@nx/vite": "npm:22.1.0-rc.4"
-    "@nx/vitest": "npm:22.1.0-rc.4"
-    "@nx/web": "npm:22.1.0-rc.4"
-    "@nx/webpack": "npm:22.1.0-rc.4"
-    "@nx/workspace": "npm:22.1.0-rc.4"
+    "@nx/angular": "npm:22.1.0-rc.5"
+    "@nx/cypress": "npm:22.1.0-rc.5"
+    "@nx/devkit": "npm:22.1.0-rc.5"
+    "@nx/eslint": "npm:22.1.0-rc.5"
+    "@nx/eslint-plugin": "npm:22.1.0-rc.5"
+    "@nx/jest": "npm:22.1.0-rc.5"
+    "@nx/js": "npm:22.1.0-rc.5"
+    "@nx/react": "npm:22.1.0-rc.5"
+    "@nx/storybook": "npm:22.1.0-rc.5"
+    "@nx/vite": "npm:22.1.0-rc.5"
+    "@nx/vitest": "npm:22.1.0-rc.5"
+    "@nx/web": "npm:22.1.0-rc.5"
+    "@nx/webpack": "npm:22.1.0-rc.5"
+    "@nx/workspace": "npm:22.1.0-rc.5"
     "@pmmmwh/react-refresh-webpack-plugin": "npm:^0.5.7"
     "@schematics/angular": "npm:20.3.2"
     "@storybook/react-vite": "npm:10.0.8"
@@ -19477,21 +19477,21 @@ __metadata:
   languageName: unknown
   linkType: soft
 
-"nx@npm:22.1.0-rc.4":
-  version: 22.1.0-rc.4
-  resolution: "nx@npm:22.1.0-rc.4"
+"nx@npm:22.1.0-rc.5":
+  version: 22.1.0-rc.5
+  resolution: "nx@npm:22.1.0-rc.5"
   dependencies:
     "@napi-rs/wasm-runtime": "npm:0.2.4"
-    "@nx/nx-darwin-arm64": "npm:22.1.0-rc.4"
-    "@nx/nx-darwin-x64": "npm:22.1.0-rc.4"
-    "@nx/nx-freebsd-x64": "npm:22.1.0-rc.4"
-    "@nx/nx-linux-arm-gnueabihf": "npm:22.1.0-rc.4"
-    "@nx/nx-linux-arm64-gnu": "npm:22.1.0-rc.4"
-    "@nx/nx-linux-arm64-musl": "npm:22.1.0-rc.4"
-    "@nx/nx-linux-x64-gnu": "npm:22.1.0-rc.4"
-    "@nx/nx-linux-x64-musl": "npm:22.1.0-rc.4"
-    "@nx/nx-win32-arm64-msvc": "npm:22.1.0-rc.4"
-    "@nx/nx-win32-x64-msvc": "npm:22.1.0-rc.4"
+    "@nx/nx-darwin-arm64": "npm:22.1.0-rc.5"
+    "@nx/nx-darwin-x64": "npm:22.1.0-rc.5"
+    "@nx/nx-freebsd-x64": "npm:22.1.0-rc.5"
+    "@nx/nx-linux-arm-gnueabihf": "npm:22.1.0-rc.5"
+    "@nx/nx-linux-arm64-gnu": "npm:22.1.0-rc.5"
+    "@nx/nx-linux-arm64-musl": "npm:22.1.0-rc.5"
+    "@nx/nx-linux-x64-gnu": "npm:22.1.0-rc.5"
+    "@nx/nx-linux-x64-musl": "npm:22.1.0-rc.5"
+    "@nx/nx-win32-arm64-msvc": "npm:22.1.0-rc.5"
+    "@nx/nx-win32-x64-msvc": "npm:22.1.0-rc.5"
     "@yarnpkg/lockfile": "npm:^1.1.0"
     "@yarnpkg/parsers": "npm:3.0.2"
     "@zkochan/js-yaml": "npm:0.0.7"
@@ -19558,7 +19558,7 @@ __metadata:
   bin:
     nx: bin/nx.js
     nx-cloud: bin/nx-cloud.js
-  checksum: 10c0/c0684e8643874bacd7992362f20ccb3c132276318cfcd15db67d8176c0c28ef3a5cd65886cb4e74f7342d27b6519831a90a2853969d857d3d8ca0417cafd2594
+  checksum: 10c0/3300b52a826b25c1c9e89e3e2b86cda362d5070fd3abe42e60dc2c84ca6c616d8ce87796675fae9a78993f26607703aa6fe2e3d45a2b1a89c9b60b3a3de77dd8
   languageName: node
   linkType: hard
 
